@@ -164,3 +164,5 @@ During Class - Last day of Sprint 4 (Build Week)
 This will assist the TLs in gathering up links to everybody's portfolio site. Remember that we should be able to get to your code on github and your blog post from your portfolio site, so this should be the only link that we need in order to access the rest of your project deliverables.
 
 [Example Link](http://www.dsglossary.com)
+
+https://medium.com/@janelle.s.washington/how-prevalent-is-lead-exposure-in-new-york-state-schools-should-we-be-worried-cdf806e2a43?sk=7dcf2d3b8cd1a7993a0d4982208f716c
